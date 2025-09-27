@@ -12,6 +12,7 @@ The goal of the "Diabetes Prediction" project is to develop a model that can acc
 
 ## Description
 
+<img width="1085" height="650" alt="image" src="https://github.com/user-attachments/assets/935e485a-b751-4ecf-bef5-6df1080a7f05" />
 
 
 ## Key Features
@@ -32,7 +33,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: git clone https://github.com/lokes9218/Diabetes_Prediction.git
 2. Install the required libraries: If you're using Google Colab, no installation is needed—just import dependencies.
-3. Launch Google Colab: [https://colab.research.google.com]
+3. Launch Google Colab: `[https://colab.research.google.com]`
 4. Open the `Diabetes_Prediction.ipynb` file and run the notebook cells sequentially.
 
 ## Conclusion
